@@ -1,0 +1,12 @@
+{
+  "name": "node-watermar-generator",
+  "version": "1.0",
+  "description": "",
+  "main": "",
+  "repository": "git@github.com:/xek2137/node-watermark-generator.git",
+  "author": "Adrian Piech <adrianpiech.git@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
